@@ -110,7 +110,7 @@ const Loader = () => {
         transition={{ delay: 0.5 }}
         className="text-2xl font-bold text-orange-500 dark:text-orange-400 mb-4"
       >
-        B4 KIENYEJI
+        D4 KIENYEJI
       </motion.div>
       
       <div className="flex space-x-2">
@@ -193,7 +193,7 @@ const Navbar = ({ currentPage, setCurrentPage }) => {
               className="flex-shrink-0 flex items-center"
             >
               <Feather className="h-8 w-8 text-orange-500" />
-              <span className="ml-2 text-2xl font-bold text-gray-900 dark:text-white">B4 KIENYEJI</span>
+              <span className="ml-2 text-2xl font-bold text-gray-900 dark:text-white">D4 KIENYEJI</span>
             </motion.div>
           </div>
           
